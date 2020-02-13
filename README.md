@@ -1,4 +1,4 @@
-# Face Detection and Features recognition  using DLib
+# Face Detection and Features Recognition  using DLib
 
 
 Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real-world problems. This library works only on the gray-scale image.
