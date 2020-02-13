@@ -32,16 +32,20 @@ We display the facial landmark coordinates and  mark  the facial landmark points
 
 
 ## Result
+
 Coordinates of respective landmark points
+
 ![alt text](https://github.com/vishakhagupta10/feature_detection/blob/master/Screenshot_result.png)
 
 
 Image for detection
+
 ![alt text](https://github.com/vishakhagupta10/feature_detection/blob/master/face.jpeg)
 
 
 
 Image after detection
+
 ![alt text](https://github.com/vishakhagupta10/feature_detection/blob/master/results/face.jpeg)
 
 
