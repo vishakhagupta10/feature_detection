@@ -14,7 +14,7 @@ We display the facial landmark coordinates and  mark  the facial landmark points
  2. Enter into the directory
 
  ```
- cd Facial-landmark-Detection
+ cd feature_detection
  ```
  3. Install requirements using the following command
  ```
