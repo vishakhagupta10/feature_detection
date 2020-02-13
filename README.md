@@ -13,15 +13,15 @@ We display the facial landmark coordinates and  mark  the facial landmark points
 Clone this repository.
  Enter into the directory
 
-       ```bash
+       ```
         cd Facial-landmark-Detection
-        ```
+       ```
  Install requirements using the following command
-  -      ```bash
+  -      ```
   	    pip install -r requirements.txt
-  	```
+  	 ```
       4. Run the image.py file for processing the image 
-         ```bash  	
+         ``` 	
 	python image.py
   	```
      5. Before running image.py update the name of your image file as face.jpeg which needs to be processed.
@@ -43,7 +43,7 @@ Image for detection
 
 Image after detection
 ![alt text](https://github.com/vishakhagupta10/feature_detection/blob/master/results/face.jpeg)
-)
+
 
 
 
