@@ -58,7 +58,7 @@ for (j,face) in enumerate(faces):
         	y = points.part(n).y
         	cv2.circle(img, (x, y), 3, (0, 0, 255), 2)
 
-        points = face_utils.shape_to_np(points)
+        #points = face_utils.shape_to_np(points)
 
         # to  convert dlib's rectangle to a OpenCV-style bounding box
         # [i.e., (x, y, w, h)], then draw the face bounding box
