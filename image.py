@@ -22,23 +22,23 @@ for (j,face) in enumerate(faces):
         print('\nface #',j+1)
         l=[]
         print('\nface boundary coordinate\n')
-        for i in range(0, 26):  # loop for displaying face boundary coordinate
+        for i in range(0, 27):  # loop for displaying face boundary coordinate
             curr_c = (points.part(i).x, points.part(i).y)
             print(curr_c)
         print('\nnose coordinate\n')
-        for i in range(27, 35):  # loop for displaying nose  coordinate
+        for i in range(27, 36):  # loop for displaying nose  coordinate
             curr_c = (points.part(i).x, points.part(i).y)
             print(curr_c)
         print('\nleft eye coordinate\n')
-        for i in range(36, 41):  # loop for displaying left eye coordinate
+        for i in range(36, 42):  # loop for displaying left eye coordinate
             curr_c = (points.part(i).x, points.part(i).y)
             print(curr_c)
         print('\nright eye coordinate\n')
-        for i in range(42, 47):  # loop for displaying right eye coordinate
+        for i in range(42, 48):  # loop for displaying right eye coordinate
             curr_c = (points.part(i).x, points.part(i).y)
             print(curr_c)
         print('\nlips coordiante\n')
-        for i in range(48, 67):  # loop for displaying lips coordinate
+        for i in range(48, 68):  # loop for displaying lips coordinate
             curr_c = (points.part(i).x, points.part(i).y)
             print(curr_c)
 
